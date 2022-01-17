@@ -1,0 +1,18 @@
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+  text-align: center;
+  vertical-align: middle !important;
+}
+
+.table td {
+  text-align: center;
+}
+
+th:first-child, td:first-child {
+  width: 10%;
+}
+
